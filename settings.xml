@@ -115,13 +115,6 @@ i-->
       <username>admin</username>
       <password>Dk@123</password>
     </server>
-    <server>
-      <id>nexusinstance</id>
-      <username>admin</username>
-      <password>Dk@123</password>
-    </server>
-
-
     <!-- Another sample, using keys to authenticate.
     <server>
       <id>siteServer</id>
