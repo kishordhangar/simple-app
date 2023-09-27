@@ -117,13 +117,13 @@ i-->
      |       used together.
      |
     <server>
-      <id>nexusinstances</id>
+      <id>nexusinstance</id>
       <username>admin</username>
       <password>Dk@123</password>
     </server>
     -->
     <server>
-      <id>nexus</id>
+      <id>nexusinstance</id>
       <username>admin</username>
       <password>Dk@123</password>
     </server>
