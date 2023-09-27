@@ -18,17 +18,17 @@
 			<scope>test</scope>
 		</dependency>
 
-	</dependencies>
+</dependencies>
 <distributionManagement>
     <repository>
       <id>nexusinstance</id>
-      <name>release-maven</name>
-      <url>http://52.221.246.84:8081/repository/release-maven/</url>
+      <name>Release-maven</name>
+      <url>http://192.168.1.10:8081/repository/Release-maven/</url>
     </repository>
     <snapshotRepository>
       <id>nexusinstance</id>
       <name>snapshots-maven</name>
-      <url>http://52.221.246.84:8081/repository/snapshots-maven/</url>
+      <url>http://192.168.1.10:8081/repository/Snapshots-maven/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
